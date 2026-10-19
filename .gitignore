@@ -1,0 +1,19 @@
+# Environment variables & secrets
+.env
+
+# SQLite local database
+*.db
+study_planner.db
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit runtime
+.streamlit/
